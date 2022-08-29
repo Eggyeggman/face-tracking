@@ -1,2 +1,1 @@
-# face-tracking
-wow
+# PRO-C106-Student-Boilerplate
